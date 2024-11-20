@@ -1,0 +1,25 @@
+.button_next{
+    position: absolute;
+    right: 100px;
+    top: 210px;
+}
+.button_prev{
+    position: absolute;
+    left: 100px;
+    top: 210px;
+}
+
+.secand_box{
+    display: flex;
+    align-items: center;
+}
+.description1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@media only screen and (max-width: 700px) {
+    
+    .nav_next{
+        display: none;
+    }
+}

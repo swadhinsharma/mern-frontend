@@ -1,0 +1,15 @@
+body{
+    padding: 0px;
+    margin : 0px;
+    background-color: white;
+    color:black;
+}
+.mainDiv {
+    padding: 0px;
+    margin: 0px;
+    height: 1000px;
+    width: 1000px;
+}
+.itag{
+    color: black;
+}
